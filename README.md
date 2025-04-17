@@ -6,4 +6,4 @@
 5. Run `php artisan migrate`
 6. Run `php artisan key:generate`
 7. Run `php artisan serve`
-8. Run `npm run dev`
+8. Run `npm run build`
